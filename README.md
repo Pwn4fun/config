@@ -10,5 +10,5 @@
 
 # Usage:
 >```bash
->sudo wget https://github.com/Pwn4fun/config/.vimrc   -O   ~/.vimrc
+>sudo wget https://raw.githubusercontent.com/Pwn4fun/config/master/.vimrc   -O   ~/.vimrc
 >```
