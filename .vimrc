@@ -41,6 +41,8 @@ set hlsearch
 set number
 set showcmd
 "set list
+scriptencoding utf-8
+set encoding=utf-8
 set listchars=space:·,tab:→ ,trail:█ " ,eol:$,precedes:«,extends:»
 set wrap
 set linebreak
