@@ -39,7 +39,6 @@ set hlsearch
 
 " STYLE
 set number
-set relativenumber
 set showcmd
 "set list
 set listchars=space:·,tab:→ ,trail:█ " ,eol:$,precedes:«,extends:»
