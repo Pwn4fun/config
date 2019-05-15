@@ -10,5 +10,5 @@
 
 # Usage:
 >```bash
->sudo wget https://raw.githubusercontent.com/Pwn4fun/config/master/.vimrc   -O   ~/.vimrc
+>sudo apt install git -y && wget https://raw.githubusercontent.com/Pwn4fun/config/master/.vimrc   -O   ~/.vimrc
 >```
